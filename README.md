@@ -1,4 +1,4 @@
-# Szoftverfejlesztes-2022-sz14
+# Szoftverfejlesztes-2022-k14
 
 A 2. feladat:
 
