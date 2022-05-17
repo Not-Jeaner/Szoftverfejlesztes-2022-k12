@@ -1,9 +1,10 @@
-# Szoftverfejlesztes-2022-sz14
+# Szoftverfejlesztes-2022-k12
 
-A szerda 14-órai zárthelyi megoldásának githubja.
+A kedd 12-órai zárthelyi megoldásának githubja.
 
 Fogl Barna
 I8V864
+(szerda 14 csoport)
 
 Megoldott feladatok/részfeladatok:
 
